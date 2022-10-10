@@ -1,2 +1,2 @@
 # ft_printf
-my realization of printf fuction
+my realization of printf fuction.
